@@ -1,0 +1,21 @@
+.nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    font-size: 20px;
+    margin-left: 5%;
+}
+.nav-item{
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    margin-left: 20px;
+    text-decoration: none;
+}
